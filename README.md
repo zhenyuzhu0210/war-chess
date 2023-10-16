@@ -1,2 +1,2 @@
 # war-chess
-a War Chess supporting online multiplayer
+This is a War Chess supporting online multiplayer.
